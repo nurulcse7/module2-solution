@@ -1,0 +1,10 @@
+div {
+    background-color: #FFFFFF;
+}
+
+p {
+    background: darkgray;
+    width: 30%;
+    height: 120px;
+    border: 2px solid black;
+}
